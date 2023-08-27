@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ph.D. candidate at [New York University, Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) <img src='./images/nyu.png' style='width: 6em;'>, advised by Keith Goldfeld, Hyung Park and Eva Petkova. 
+I am Ph.D. candidate at [New York University, Division of Biostatistics](https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/) <img src='./NYU_logo.png' style='width: 4em;'>, advised by Keith Goldfeld, Hyung Park and Eva Petkova. 
 
 I graduated from [Cornell University, Weill Cornell Medicine](https://gradschool.weill.cornell.edu/biostatistics-and-data-science), with an M.S. in Biostatistics and Data Science, advised by Samprit Banerjee. Before that, I obtained a B.S. in Applied Statistics from the Central University of Finance and Economics (中央财经大学), advised by [Feng Li (李丰)](http://sam.cufe.edu.cn/info/1115/1876.htm).
 
