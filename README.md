@@ -6,7 +6,7 @@ I graduated from [Cornell University, Weill Cornell Medicine](https://gradschool
 
 I interned at Moderna in 2023 summer, where I focused on the design of a seamless Phase II/III trial and evaluating surrogate endpoints for early program decisions for their [individualized cancer vaccine](https://www.modernatx.com/media-center/all-media/blogs/individual.neoantigen-therapies). 
 
-My research interest includes Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have publications <a href='https://scholar.google.com/citations?user=ToOwt1kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in JAMA Internal Medicine, JAMA Network Open, Statistics in Medicine, etc.  
+My research interest includes Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have publications in JAMA Internal Medicine, JAMA Network Open, Statistics in Medicine, etc. with a total citations of <a href='https://scholar.google.com/citations?user=ToOwt1kAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.  
 
 If you are seeking any form of collaboration, please feel free to email me at [dw2625@nyu.edu](mailto:dw2625@nyu.edu).
 
