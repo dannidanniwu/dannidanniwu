@@ -6,7 +6,7 @@ I earned my M.S. in Biostatistics and Data Science from [Cornell University, Wei
 
 I interned at Moderna <img src='./Moderna-Logo.jpg' style='width: 4em;'> in 2023 summer, focused on designing a Bayesian seamless Phase II/III trial and evaluating early/surrogate endpoints to make early program decisions for their [individualized cancer vaccine](https://www.modernatx.com/media-center/all-media/blogs/individual.neoantigen-therapies). 
 
-My research interests include Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have been published in journals such as JAMA Internal Medicine, JAMA Network Open, and Statistics in Medicine.
+My research interests include Bayesian Statistics, Precision Medicine, Clinical Trial Design, and Statistical Computing. I have been published in journals such as [JAMA Internal Medicine](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2787090), [JAMA Network Open](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377), [BMC Medical Research Methodology](https://link.springer.com/article/10.1186/s12874-022-01813-4) and [Statistics in Medicine](https://jamanetwork.com/journals/jamanetworkopen/article-abstract/2788377).
 
 If you are seeking any form of collaboration, please feel free to email me at [dw2625@nyu.edu](mailto:dw2625@nyu.edu).
 
