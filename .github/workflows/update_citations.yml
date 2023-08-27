@@ -2,7 +2,7 @@ name: Update Citations
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight
+    - cron: '3 15 * * *'  # Run daily at midnight
 
 jobs:
   update-readme-with-citations:
